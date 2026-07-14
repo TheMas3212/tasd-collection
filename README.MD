@@ -15,6 +15,16 @@
   - Authors: Yy
   - https://tasvideos.org/13M
 
+- 3922M.tasd
+  - NES Super Mario Bros. 3 "warps" in 10:24.338
+  - Authors: Lord_Tom, Maru & Tompa
+  - https://tasvideos.org/3922M
+
+- 2835M.tasd
+  - NES Super Mario Bros. 3 "all levels" in 1:04:36.90 
+  - Authors: Lord_Tom & Tompa
+  - https://tasvideos.org/2835M
+
 # SNES
 
 - 2419M.tasd
