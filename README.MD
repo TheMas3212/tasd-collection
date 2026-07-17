@@ -25,6 +25,62 @@
   - Authors: Lord_Tom & Tompa
   - https://tasvideos.org/2835M
 
+- 2977M.tasd
+  - NES Super Mario Bros. "maximum coins" in 26:10.25
+  - Authors: TEHH_083, HappyLee & CuteQt
+  - https://tasvideos.org/2977M
+
+- 1715M.tasd
+  - NES Super Mario Bros. "warps" in 04:57.31
+  - Authors: HappyLee 
+  - https://tasvideos.org/1715M
+
+- 4313M.tasd
+  - NES Super Mario Bros. "all items" in 19:48.68
+  - Authors: DaSmileKat, HappyLee & Mars608
+  - https://tasvideos.org/4313M
+
+- 3728M.tasd
+  - NES Super Mario Bros. "warpless" in 18:36.78
+  - Authors: HappyLee & Mars608
+  - https://tasvideos.org/3728M
+
+- 3648M.tasd
+  - NES Super Mario Bros. "all items" in 19:50.04
+  - Authors: Mars608, chatterbox & HappyLee
+  - https://tasvideos.org/3648M
+
+- 4444M.tasd
+  - NES Super Mario Bros. "minimum A presses" in 10:24.39
+  - Authors: HappyLee, Kriller37, DaSmileKat, Kosmic & periwinkle
+  - https://tasvideos.org/4444M
+
+- 1349M.tasd
+  - NES Super Mario Bros. "warpless" in 18:41.70
+  - Authors: HappyLee
+  - https://tasvideos.org/1349M
+
+- 2676M.tasd
+  - NES Super Mario Bros. "warpless, walkathon" in 25:19.23
+  - Authors: Mars608 & HappyLee
+  - https://tasvideos.org/2676M
+
+- 6555M.tasd
+  - NES Super Mario Bros. "maximum score" in 18:03.62
+  - Authors: HappyLee, DaSmileKat, Kzwbz, Asumeh & Kosmic
+  - https://tasvideos.org/6555M
+
+- 1332M.tasd
+  - NES Super Mario Bros. "warps, walkathon" in 06:47.196
+  - Authors: HappyLee
+  - https://tasvideos.org/1332M
+
+- 6313M.tasd
+  - NES Super Mario Bros. "minimum presses" in 05:48.04
+  - Authors: Brandon
+  - https://tasvideos.org/6313M
+
+
 # SNES
 
 - 2419M.tasd
